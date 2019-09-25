@@ -17,3 +17,4 @@ A Free Code Camp Front End Libraries Project
      
 ### Refactor: 
  - replace array with quotes API
+ - [cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)
