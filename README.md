@@ -5,7 +5,7 @@ A Free Code Camp Front End Libraries Project
 ### Check out a [live demo](https://rqmfcc.netlify.com/) 
 
 ### Screenshots:
-<img src="./screenshot_01.png" alt="example" width="10%" height="10%" style="border: none">
+<!-- <img src="./screenshot_01.png" alt="example" width="10%" height="10%" style="border: none"> -->
 <img src="./screenshot_02.png" alt="example" width="30%" height="30%" style="border: none">
 
 ### Tech:
@@ -18,3 +18,7 @@ A Free Code Camp Front End Libraries Project
 ### Refactor: 
  - replace array with quotes API
  - [cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)
+
+### Credits:
+- [Nathan Villaescusa](https://gist.github.com/signed0) for use of this [quotes array](https://gist.github.com/signed0/d70780518341e1396e11)
+- [Go Make Things](https://gomakethings.com/) for use of the [shuffle array](https://gomakethings.com/how-to-shuffle-an-array-with-vanilla-js/)
