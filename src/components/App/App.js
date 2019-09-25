@@ -6,7 +6,7 @@ import Twitter from "./Twitter.png";
 import Facebook from "./Facebook.png";
 
 let quoteAuthor = [
-["When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.", "John Lennon"],
+  ["When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.", "John Lennon"],
 ["To be or not to be, that is the question", "Hamlet"],
 ["You miss every shot you don't take -Wayne Gretzky", "Michael Scott"],
 ["Rumors of my death are greatly exaggerated", "Mark Twain"],
